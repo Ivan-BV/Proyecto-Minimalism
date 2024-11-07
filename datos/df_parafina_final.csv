@@ -1,0 +1,96 @@
+,nombre,precio,colores,material
+0,Isla,31.85,Atardecer,PET (Plástico) Reciclado
+1,Isla,31.85,Lluvia,PET (Plástico) Reciclado
+2,Isla,31.85,Carey Genjibre,PET (Plástico) Reciclado
+3,Isla,31.85,Musgo Mate,PET (Plástico) Reciclado
+4,Isla,31.85,Negro Mate,PET (Plástico) Reciclado
+5,Isla,31.85,Rosa Palo,PET (Plástico) Reciclado
+6,Isla,31.85,Carey,PET (Plástico) Reciclado
+7,Cala,38.35,Transparente,Bambú Orgánico
+8,Cala,38.35,Atardecer,Bambú Orgánico
+9,Cala,38.35,Caramelo,Bambú Orgánico
+10,Cala,38.35,Negro,Bambú Orgánico
+11,Cala,38.35,Carey Suave,Bambú Orgánico
+12,Arroyo,31.85,Lluvia,PET (Plástico) Reciclado
+13,Arroyo,31.85,Carey Genjibre,PET (Plástico) Reciclado
+14,Arroyo,31.85,Transparente,PET (Plástico) Reciclado
+15,Arroyo,31.85,Negro Mate,PET (Plástico) Reciclado
+16,Arroyo,31.85,Rosa Palo,PET (Plástico) Reciclado
+17,Arroyo,31.85,Carey,PET (Plástico) Reciclado
+18,Costa,38.35,Transparente,Bambú Orgánico
+19,Costa,38.35,Zanahoria,Bambú Orgánico
+20,Costa,38.35,Caramelo,Bambú Orgánico
+21,Costa,38.35,Negro,Bambú Orgánico
+22,Costa,38.35,Carey Suave,Bambú Orgánico
+23,Cauce,31.85,Atardecer,PET (Plástico) Reciclado
+24,Cauce,31.85,Lluvia,PET (Plástico) Reciclado
+25,Cauce,31.85,Carey Genjibre,PET (Plástico) Reciclado
+26,Cauce,31.85,Transparente,PET (Plástico) Reciclado
+27,Cauce,31.85,Negro Mate,PET (Plástico) Reciclado
+28,Cauce,31.85,Rosa Palo,PET (Plástico) Reciclado
+29,Ruta,38.35,Transparente,Goma Reciclada
+30,Ruta,38.35,Negro,Goma Reciclada
+31,Ruta,38.35,Verde Oscuro,Goma Reciclada
+32,Camino,38.35,Transparente,Goma Reciclada
+33,Camino,38.35,Negro,Goma Reciclada
+34,Camino,38.35,Rosa Palo,Goma Reciclada
+35,Colina,44.85,Havana,HDPE (Plástico) Reciclado
+36,Colina,44.85,Crema,HDPE (Plástico) Reciclado
+37,Colina,44.85,Rubor Brillante,HDPE (Plástico) Reciclado
+38,Colina,44.85,Negro,HDPE (Plástico) Reciclado
+39,Colina,44.85,Carey,HDPE (Plástico) Reciclado
+40,Valle,31.85,Atardecer,PET (Plástico) Reciclado
+41,Valle,31.85,Lluvia,PET (Plástico) Reciclado
+42,Valle,31.85,Negro Mate,PET (Plástico) Reciclado
+43,Costa,38.35,Transparente,Bambú Orgánico
+44,Costa,38.35,Zanahoria,Bambú Orgánico
+45,Costa,38.35,Caramelo,Bambú Orgánico
+46,Costa,38.35,Negro,Bambú Orgánico
+47,Costa,38.35,Carey Suave,Bambú Orgánico
+48,Duna,44.85,Cereza Brillante,HDPE (Plástico) Reciclado
+49,Duna,44.85,Havana,HDPE (Plástico) Reciclado
+50,Duna,44.85,Crema,HDPE (Plástico) Reciclado
+51,Duna,44.85,Rubor Brillante,HDPE (Plástico) Reciclado
+52,Duna,44.85,Negro,HDPE (Plástico) Reciclado
+53,Duna LECOLOR,41.6,Negro - Lente Roja,HDPE (Plástico) Reciclado
+54,Duna LECOLOR,41.6,Negro - Lente Verde,HDPE (Plástico) Reciclado
+55,Geiser,31.85,Negro Mate (Lente Espejada Naranja),PET (Plástico) Reciclado
+56,Huracán  II,51.35,Negro,Metal Reciclado
+57,Huracán  II,51.35,Carey,Metal Reciclado
+58,Huracán  II,51.35,Caramelo,Metal Reciclado
+59,Isla,31.85,Atardecer,PET (Plástico) Reciclado
+60,Isla,31.85,Lluvia,PET (Plástico) Reciclado
+61,Isla,31.85,Carey Genjibre,PET (Plástico) Reciclado
+62,Isla,31.85,Musgo Mate,PET (Plástico) Reciclado
+63,Isla,31.85,Negro Mate,PET (Plástico) Reciclado
+64,Isla,31.85,Rosa Palo,PET (Plástico) Reciclado
+65,Isla,31.85,Carey,PET (Plástico) Reciclado
+66,Jungla,44.85,Cereza Brillante,HDPE (Plástico) Reciclado
+67,Jungla,44.85,Oliva,HDPE (Plástico) Reciclado
+68,Jungla,44.85,Negro,HDPE (Plástico) Reciclado
+69,Jungla,44.85,Carey,HDPE (Plástico) Reciclado
+70,Mar,44.85,Crema,HDPE (Plástico) Reciclado
+71,Mar,44.85,Ámbar,HDPE (Plástico) Reciclado
+72,Mar,44.85,Negro,HDPE (Plástico) Reciclado
+73,Mar,44.85,Carey,HDPE (Plástico) Reciclado
+74,Océano,44.85,Havana,HDPE (Plástico) Reciclado
+75,Océano,44.85,Negro,HDPE (Plástico) Reciclado
+76,Océano,44.85,Carey,HDPE (Plástico) Reciclado
+77,Ola,38.35,Zanahoria,Bambú Orgánico
+78,Ola,38.35,Caramelo,Bambú Orgánico
+79,Ola,38.35,Negro,Bambú Orgánico
+80,Ruta,38.35,Transparente,Goma Reciclada
+81,Ruta,38.35,Negro,Goma Reciclada
+82,Ruta,38.35,Verde Oscuro,Goma Reciclada
+83,Sima,44.85,Cereza Brillante,HDPE (Plástico) Reciclado
+84,Sima,44.85,Oliva,HDPE (Plástico) Reciclado
+85,Sima,44.85,Negro,HDPE (Plástico) Reciclado
+86,Valle,31.85,Atardecer,PET (Plástico) Reciclado
+87,Valle,31.85,Lluvia,PET (Plástico) Reciclado
+88,Valle,31.85,Negro Mate,PET (Plástico) Reciclado
+89,Vía,38.35,Pistacho Mate,Goma Reciclada
+90,Vía,38.35,Negro,Goma Reciclada
+91,Vía,38.35,Verde Oscuro,Goma Reciclada
+92,Viento,51.35,Negro,Metal Reciclado
+93,Viento,51.35,Carey,Metal Reciclado
+94,Viento,51.35,Caramelo,Metal Reciclado
