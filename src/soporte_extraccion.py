@@ -1,8 +1,13 @@
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 import pandas as pd
+import sys
+sys.path.append("../")
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
-def crear_gsheet(carpeta_destino: str, correo: str, nombre: str, df: pd.DataFrame):
+def crear_gsheet(nombre: str, df: pd.DataFrame):
     """
     Crea un Google Sheet, lo guarda en una carpeta especificada de Google Drive, y opcionalmente rellena el Google Sheet con un DataFrame.
 
@@ -22,7 +27,8 @@ def crear_gsheet(carpeta_destino: str, correo: str, nombre: str, df: pd.DataFram
         url_archivo = crear_gsheet(carpeta_destino, correo, nombre, df)
 
     """
-
+    correo = os.getenv("correo_propietario")
+    carpeta_destino = os.getenv("url_carpeta_destino")
     SCOPES = ["https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/drive"]
 
     # Autenticar usando el archivo JSON de la cuenta de servicio
